@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Afshan Nabi
 description: About
-logo: [/assets/img/deniz.jpg]
+logo: /assets/img/deniz.jpg
