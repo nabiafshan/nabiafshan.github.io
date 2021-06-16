@@ -1,6 +1,6 @@
 I am interested in the applications of machine learning to computational biology. 
 
-Since May 2021, I've been working as a machine learning enginner at [OccamzRazor](https://www.occamzrazor.com/work). 
+Since May 2021, I've been working as a machine learning engineer at [OccamzRazor](https://www.occamzrazor.com/work). 
 
 I am also in the process of finishing my CS Masters at Sabanci University. My advisor is [Oznur Tastan](http://people.sabanciuniv.edu/otastan/). 
 
@@ -17,10 +17,10 @@ Previously, I worked in [Ozlen Konu](http://web2.bilkent.edu.tr/konulab/assoc-pr
 
 
 ### Teaching
-I've worked as a teaching assistant for [BIO310](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=02&subject=BIO&code=310&lan=eng)-Introduction to Bioinformatics and [CS210](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=02&subject=CS&code=210&lan=eng)-Introduction to Data Science
+I've worked as a teaching assistant for [BIO310](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=02&subject=BIO&code=310&lan=eng)-Introduction to Bioinformatics, [CS210](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=02&subject=CS&code=210&lan=eng)-Introduction to Data Science and [IF100](https://sites.google.com/sabanciuniv.edu/if100)-Computational Approaches to Problem Solving.
 
 
 ### Outside of work,
-* I try to make/capture beautiful things.
+* I try to make beauty and capture emotion.
   * [Art](https://www.deviantart.com/ellodunya)
   * [Writing](https://medium.com/@zoun)
